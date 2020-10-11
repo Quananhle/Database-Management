@@ -1,7 +1,7 @@
 ## Bank Account Summary II
 
 SQL Schema
-```{SQL}
+```
 Create table If Not Exists Users (account int, name varchar(20))
 Create table If Not Exists Transactions (trans_id int, account int, amount int, transacted_on date)
 Truncate table Users
