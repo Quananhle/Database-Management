@@ -1,3 +1,3 @@
 ## JOIN
 
-![Alt text](TradingAI-Udacity.jpg?raw=true "Certification")
+![Alt text](VQ5XP.png?raw=true "JOIN")
